@@ -2,7 +2,7 @@
 
 - "Final Year B.Tech Student |
 -Aspiring AI/ML Engineer |
--Passionate about Data Science & Machine        Learning 
+-Passionate about Data Science & Machine       Learning 
 - Open to Internships & Opportunities" 
 - I’m looking to collaborate on startup
 - 📫 How to reach me avinishofficial@gmail.com
